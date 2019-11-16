@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ReadFromFile
+comment0.text=\n\ Class\ designed\ to\ take\ a\ file\ from\ the\ command\ line\ and\ read\ it\ in\n\n\ @author\ Jillian\ Baggett\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=filePath
+comment2.target=java.util.List\ readInGraph(java.lang.String)
+numComments=3
